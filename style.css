@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Indie+Flower&display=swap');
+
+.name {
+    position: relative;
+    left: 188px;
+    top: 2px;
+    font-size: 23px;
+    font-family: 'Cedarville Cursive', cursive;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bold;
+}
+
+.d-flex {
+    position: relative;
+    left: 513px;
+}
+
+.container-fluid {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.btn-image img {
+    height: 29px;
+    border: 2px solid white;
+    border-radius: 39px;
+}
+
+.story {
+    background-color: azure;
+}
